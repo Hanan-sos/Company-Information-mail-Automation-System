@@ -64,4 +64,4 @@ This makes the workflow suitable for customer support, sales inquiries, internal
 This project is intended for educational and automation purposes. Feel free to modify and adapt it to your own business needs.
 
 
-![](https://eu1.make.com/2144766/scenarios/6621772/edit)
+![](https://github.com/Hanan-sos/Company-Information-mail-Automation-System/blob/main/E-Mail.png)
